@@ -66,7 +66,7 @@ files.forEach(async (fileType) => {
 		}
 
 		fs.writeFile(
-			`hv/${path.parse(args.src).name}.${fileType.ext}`,
+			`hv/${path.parse(args.src).name.toLowerCase()}.${fileType.ext}`,
 			formattedFile,
 			"utf8",
 			(err) => {

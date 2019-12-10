@@ -1,0 +1,17 @@
+{
+	"colors": {
+		"Green": "#00d66c",
+		"GreenDark": "#1e9162",
+		"GreenLight": "#4de298",
+		"Red": "#ff3268",
+		"RedDark": "#ca2b55",
+		"RedLight": "#ff658e",
+		"Blue": "#2800a0",
+		"BlueDark": "#120145",
+		"BlueLight": "#5e40b8",
+		"Black": "#202020",
+		"Sand": "#f3e5d8",
+		"LightGray": "#f7f7f7",
+		"Gray": "#909090"
+	}
+}

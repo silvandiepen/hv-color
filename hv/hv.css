@@ -1,0 +1,105 @@
+:root {
+  --guyn-Green: #00d66c;
+  --guyn-Green-hue: 150.2803738317757;
+  --guyn-Green-saturation: 100;
+  --guyn-Green-lightness: 41.96078431372549;
+  --guyn-Green-red: 0;
+  --guyn-Green-green: 214;
+  --guyn-Green-blue: 108;
+
+  --guyn-GreenDark: #1e9162;
+  --guyn-GreenDark-hue: 155.47826086956522;
+  --guyn-GreenDark-saturation: 65.71428571428571;
+  --guyn-GreenDark-lightness: 34.31372549019608;
+  --guyn-GreenDark-red: 30;
+  --guyn-GreenDark-green: 145;
+  --guyn-GreenDark-blue: 98;
+
+  --guyn-GreenLight: #4de298;
+  --guyn-GreenLight-hue: 150.2013422818792;
+  --guyn-GreenLight-saturation: 71.9806763285024;
+  --guyn-GreenLight-lightness: 59.411764705882355;
+  --guyn-GreenLight-red: 77;
+  --guyn-GreenLight-green: 226;
+  --guyn-GreenLight-blue: 152;
+
+  --guyn-Red: #ff3268;
+  --guyn-Red-hue: 344.1951219512195;
+  --guyn-Red-saturation: 100;
+  --guyn-Red-lightness: 59.80392156862745;
+  --guyn-Red-red: 255;
+  --guyn-Red-green: 50;
+  --guyn-Red-blue: 104;
+
+  --guyn-RedDark: #ca2b55;
+  --guyn-RedDark-hue: 344.1509433962264;
+  --guyn-RedDark-saturation: 64.89795918367346;
+  --guyn-RedDark-lightness: 48.0392156862745;
+  --guyn-RedDark-red: 202;
+  --guyn-RedDark-green: 43;
+  --guyn-RedDark-blue: 85;
+
+  --guyn-RedLight: #ff658e;
+  --guyn-RedLight-hue: 344.02597402597405;
+  --guyn-RedLight-saturation: 100;
+  --guyn-RedLight-lightness: 69.80392156862744;
+  --guyn-RedLight-red: 255;
+  --guyn-RedLight-green: 101;
+  --guyn-RedLight-blue: 142;
+
+  --guyn-Blue: #2800a0;
+  --guyn-Blue-hue: 255;
+  --guyn-Blue-saturation: 100;
+  --guyn-Blue-lightness: 31.372549019607842;
+  --guyn-Blue-red: 40;
+  --guyn-Blue-green: 0;
+  --guyn-Blue-blue: 160;
+
+  --guyn-BlueDark: #120145;
+  --guyn-BlueDark-hue: 255;
+  --guyn-BlueDark-saturation: 97.14285714285715;
+  --guyn-BlueDark-lightness: 13.72549019607843;
+  --guyn-BlueDark-red: 18;
+  --guyn-BlueDark-green: 1;
+  --guyn-BlueDark-blue: 69;
+
+  --guyn-BlueLight: #5e40b8;
+  --guyn-BlueLight-hue: 255;
+  --guyn-BlueLight-saturation: 48.38709677419355;
+  --guyn-BlueLight-lightness: 48.627450980392155;
+  --guyn-BlueLight-red: 94;
+  --guyn-BlueLight-green: 64;
+  --guyn-BlueLight-blue: 184;
+
+  --guyn-Black: #202020;
+  --guyn-Black-hue: 0;
+  --guyn-Black-saturation: 0;
+  --guyn-Black-lightness: 12.549019607843137;
+  --guyn-Black-red: 32;
+  --guyn-Black-green: 32;
+  --guyn-Black-blue: 32;
+
+  --guyn-Sand: #f3e5d8;
+  --guyn-Sand-hue: 28.888888888888925;
+  --guyn-Sand-saturation: 52.94117647058819;
+  --guyn-Sand-lightness: 89.99999999999999;
+  --guyn-Sand-red: 243;
+  --guyn-Sand-green: 229;
+  --guyn-Sand-blue: 216;
+
+  --guyn-LightGray: #f7f7f7;
+  --guyn-LightGray-hue: 0;
+  --guyn-LightGray-saturation: 0;
+  --guyn-LightGray-lightness: 96.86274509803921;
+  --guyn-LightGray-red: 247;
+  --guyn-LightGray-green: 247;
+  --guyn-LightGray-blue: 247;
+
+  --guyn-Gray: #909090;
+  --guyn-Gray-hue: 0;
+  --guyn-Gray-saturation: 0;
+  --guyn-Gray-lightness: 56.470588235294116;
+  --guyn-Gray-red: 144;
+  --guyn-Gray-green: 144;
+  --guyn-Gray-blue: 144;
+}
